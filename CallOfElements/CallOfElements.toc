@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Call Of Elements
 ## Notes: The All-In-One Shaman Addon
+## Notes-ruRU: Аддон "Все в одном" для Шаманов
 ## OptionalDeps:
 ## Dependencies: Chronos
 ## SavedVariables: COE_Saved

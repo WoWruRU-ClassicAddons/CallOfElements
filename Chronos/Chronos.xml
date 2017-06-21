@@ -3,6 +3,7 @@
 	
 	<!-- This loads the localization files.  -->
 	<Script file="localization.en.lua"/>
+	<Script file="localization.ru.lua"/>
 	<Script file="localization.de.lua"/>
 	<Script file="localization.fr.lua"/>
 	
